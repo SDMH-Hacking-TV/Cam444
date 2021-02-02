@@ -7,25 +7,8 @@ trap 'printf "\n";stop' 2
 
 banner() {
 clear
-echo $yellow"__________$$$$$$$$$$ "
-echo $yellow"_________$_________$$ "
-echo $yellow"_________$_$$$$$$$_$$ "
-echo $yellow"_________$_$_____$_$$ "
-echo $yellow"_________$_$_____$_$$ "
-echo $yellow"_________$_$_____$_$$ "
-echo $yellow"_________$_$_____$_$$ "
-echo $yellow"_________$_$$$$$$$_$$ "
-echo $yellow"_________$_________$$ "
-echo $yellow"_________$$$$$$$$$$$ "
-echo $yellow"________$_________$$ "
-echo $yellow"_______$_1__2__3_$$$ "
-echo $yellow"______$_4__5__6_$$$ "
-echo $yellow"_____$_7__8__9_$$$ "
-echo $yellow"____$_*__0__#_$$$ "
-echo $yellow"___$_________$$$ "
-echo $yellow"___$$$$$$$$$$$ "
-echo $yellow"____$$$$$$$$$ "
-
+printf " \e[1;77m Welcome Our Youtube | SDMH-Hacking-TV \e[0m \n"
+printf " \e[1;77m Welcome Our Facebook | SDMH-Hacking-TV \e[0m \n"
 printf "\e[1;92m█████████████████████████████████████████████████████████████████████\e[0m\e[1;77m \e[0m\n"
 printf "\e[1;92m█░░░░░░░░░░░░░░█░░░░░░░░░░░░███░░░░░░██████████░░░░░░█░░░░░░██░░░░░░█\e[0m\e[1;77m \e[0m\n"
 printf "\e[1;92m█░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀▄▀▄▀▄▀░░░░█░░▄▀░░░░░░░░░░░░░░▄▀░░█░░▄▀░░██░░▄▀░░█\e[0m\e[1;77m \e[0m\n"

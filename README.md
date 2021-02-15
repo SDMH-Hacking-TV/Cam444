@@ -33,6 +33,7 @@ apt-get -y install php openssh git wget
 ```
 git clone https://github.com/SDMH-Hacking-TV/Cam444.git
 cd Cam444
+bash install.sh
 bash camphish.sh
 ```
 ### Video Demo

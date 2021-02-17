@@ -35,6 +35,7 @@ echo ""
 echo " SUBSCRIBE MY CHANNEL 🔔 " | lolcat
 xdg-open https://syr.us/iiW
 echo ""
+clear
 
 #!/bin/bash
 # Xophisher v1.0
